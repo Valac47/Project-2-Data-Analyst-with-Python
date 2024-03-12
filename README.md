@@ -1,4 +1,3 @@
-```Powershell
 # Project-2-Data-Analyst-with-Python
 
 # Interactive Dashboard with Python – Streamlit
@@ -33,4 +32,3 @@ Love my content and want to show appreciation?
 ## 💌 Feedback
 Got some thoughts or suggestions? Don't hesitate to reach out to me at nileshkumarprasad@369gmail.com. I'd love to hear from you! 💡
 
-```
