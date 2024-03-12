@@ -22,11 +22,11 @@ Sales Dashboard:
 
 ## 🤝 Get to Know Me & Stay Connected
 
-- 💼 **LinkedIn:** [Sven Bosau](https://www.linkedin.com/in/sven-bosau/)
+- 💼 **LinkedIn:** [NILESH KUMAR PRASAD](www.linkedin.com/in/nilesh-kumar-prasad-89253128b)
   
 
 ## ☕️ Support My Work
-Love my content and want to show appreciation? Why not [buy me a coffee](https://pythonandvba.com/coffee-donation) to fuel my creative engine? Your support means the world to me! 😊
+Love my content and want to show appreciation? 
 
 
 ## 💌 Feedback
