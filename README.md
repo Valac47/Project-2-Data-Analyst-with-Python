@@ -7,7 +7,7 @@ Sales Dashboard built-in Python and the Streamlit library to visualize Excel dat
 
 ## Run the app
 ```Powershell
-# vanilla terminal
+# vs code terminal
 streamlit run app.py
 
 # quit
